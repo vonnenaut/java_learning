@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/eliza.iml" filepath="$PROJECT_DIR$/eliza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HammerBitcoin.iml" filepath="$PROJECT_DIR$/HammerBitcoin.iml" />
     </modules>
   </component>
 </project>
